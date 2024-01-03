@@ -116,6 +116,7 @@ rules:
   - DOMAIN,msg.umeng.com,🎯 全球直连
   - DOMAIN,msg.umengcloud.com,🎯 全球直连
   - DOMAIN-SUFFIX,mongodb.singapore.rds.aliyuncs.com:3717,🎯 全球直连
+  - DOMAIN-SUFFIX,mongodb.singapore.rds.aliyuncs.com,🎯 全球直连
   - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mcupdate.gstarcad.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adx.open-adx.com,🛑 全球拦截
