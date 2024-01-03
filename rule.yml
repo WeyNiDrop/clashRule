@@ -4,6 +4,7 @@ rules:
   - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
   - IP-CIDR,172.16.0.0/12,🎯 全球直连,no-resolve
   - IP-CIDR,172.20.0.0/12,🎯 全球直连,no-resolve
+  - IP-CIDR,47.241.85.0/12,🎯 全球直连,no-resolve
   - IP-CIDR,127.0.0.0/8,🎯 全球直连,no-resolve
   - IP-CIDR,100.64.0.0/10,🎯 全球直连,no-resolve
   - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
@@ -9816,5 +9817,4 @@ rules:
   - DOMAIN-KEYWORD,Thunder,🎯 全球直连
   - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
-  - MATCH,🎯 全球直连
-  # - MATCH,🐟 漏网之鱼,🎯 全球直连
+  - MATCH,🐟 漏网之鱼,🎯 全球直连
